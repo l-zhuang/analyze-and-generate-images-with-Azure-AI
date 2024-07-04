@@ -8,7 +8,7 @@ export function isConfigured() {
 }
 
 export const analyzeImage = async (imageUrl) => {
-  isConfigured();
+  // isConfigured();
   const params = {
     'api-version': '2024-02-01',
     'features': 'tags,read,caption,denseCaptions,smartCrops,objects,people'

@@ -3,27 +3,27 @@ import './App.css';
 import { analyzeImage } from './azure-image-analysis.js';
 import { generateImage } from './azure-image-generation.js';
 
-import { isConfigured as isGenerationConfigured } from './azure-image-generation';
-import { isConfigured as isAnalysisConfigured } from './azure-image-analysis';
+// import { isConfigured as isGenerationConfigured } from './azure-image-generation';
+// import { isConfigured as isAnalysisConfigured } from './azure-image-analysis';
 
 function App() {
   const [input, setInput] = useState('');
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(false);
   
-  const configured = isGenerationConfigured() && isAnalysisConfigured();
+  // const configured = isGenerationConfigured() && isAnalysisConfigured();
 
-    if (!configured) {
-        // Render warning message if not configured
-        return (
-            <div className="App">
-                <header className="App-header">
-                    <h1>Configuration Error</h1>
-                    <p>Please ensure that Azure AI services are properly configured.</p>
-                </header>
-            </div>
-        );
-    }
+  //   if (!configured) {
+  //       // Render warning message if not configured
+  //       return (
+  //           <div className="App">
+  //               <header className="App-header">
+  //                   <h1>Configuration Error</h1>
+  //                   <p>Please ensure that Azure AI services are properly configured.</p>
+  //               </header>
+  //           </div>
+  //       );
+  //   }
   const handleInputChange = (event) => {
     setInput(event.target.value);
   };
@@ -70,8 +70,6 @@ const DisplayResults = () => {
     </div>
   );
 };
-
-  
 
   return (
     <div className="App">
