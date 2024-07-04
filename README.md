@@ -11,19 +11,26 @@ Visit the live application here: [Nice Meadow on Azure](https://nice-meadow-07f8
 - **Image Analysis**: Analyze any provided image URL to extract detailed information using the Azure Computer Vision API.
 - **Image Generation**: Generate images based on textual prompts utilizing the cutting-edge capabilities of the DALL-E 4 model via the Azure OpenAI API.
 
-## Image Analysis Demo
-
-Here is a demonstration of the image analysis feature:
-
-![Image Analysis Demo](
-https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)
-
-## Image Generation Demo
+## Image Generation Demo #1
 
 Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
 
 ![Image Generation Demo](
 https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)
+
+## Image Generation Demo #2
+
+Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
+
+![Image Generation Demo](
+https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)
+
+## Image Analysis Demo
+
+Here is a demonstration of the image analysis feature:
+
+![Image Analysis Demo](
+[https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)](https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/image_analysis_demo.png?raw=true)
 
 ## How It Works
 
