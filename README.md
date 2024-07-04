@@ -14,6 +14,7 @@ Visit the live application here: [Nice Meadow on Azure](https://nice-meadow-07f8
 ## Image Generation Demo #1
 
 Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
+with Prompt: "Border Collie running in grass land"
 
 ![Image Generation Demo](
 https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)
@@ -21,6 +22,7 @@ https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/
 ## Image Generation Demo #2
 
 Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
+with Prompt: "A futuristic city in neon light"
 
 ![Image Generation Demo](
 https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/image_generation_demo_2.png?raw=true)
