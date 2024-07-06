@@ -2,10 +2,6 @@
 
 This project showcases an Azure Static Web App that provides image analysis and image generation functionalities. The app allows users to submit an image URL for analysis and uses the Azure Computer Vision API to analyze the image. Additionally, it leverages the DALL-E 4 Azure OpenAI API to generate images based on user-provided prompts.
 
-## Live Demo
-
-Visit the live application here: [Nice Meadow on Azure](https://nice-meadow-07f830f10.5.azurestaticapps.net/)
-
 ## Features
 
 - **Image Analysis**: Analyze any provided image URL to extract detailed information using the Azure Computer Vision API.
