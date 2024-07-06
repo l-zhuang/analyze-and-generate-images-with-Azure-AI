@@ -11,7 +11,7 @@ This project showcases an Azure Static Web App that provides image analysis and 
 
 Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
 
-with Prompt: "Border Collie running in grass land"
+Using Prompt: "Border Collie running in grass land"
 
 ![Image Generation Demo](
 https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/test_image.png?raw=true)
@@ -20,7 +20,7 @@ https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/
 
 Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
 
-with Prompt: "A futuristic city in neon light"
+Using Prompt: "A futuristic city in neon light"
 
 ![Image Generation Demo](
 https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI/blob/main/image_generation_demo_2.png?raw=true)
